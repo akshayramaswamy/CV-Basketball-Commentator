@@ -2,4 +2,6 @@ all_data/
 partial_data/
 andrew-vm-3/
 andrew-vm-4/
+cs231n/
+models/
 p3d_rgb_199.checkpoint.pth.tar
